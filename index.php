@@ -1,5 +1,6 @@
-<body style="background-color:pink">
+<body style="background-color:black">
+    
     <h1><?php
-        echo "hello worl frlifljd"; 
+        echo "hello worl ljd"; 
     ?></h1>
 </body>
